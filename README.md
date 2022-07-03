@@ -5,6 +5,8 @@ As Louise’s play Fever comes close to the fundraising goal, she still aims to 
 ## Analysis and Challenges
 ### Analysis of Outcomes Based on Launch Date
 I first broke down the theater shows by outcomes of successful, failed and canceled by launch date from January to December since the year of 2009. For example, 100 projects were successful in June during the year of 2009 to 2017, while 49 were failed and 4 were canceled. I have checked to make sure the total number of theater shows are 1369. Also, there were no cancelations in October. Furthermore, a line chart can better explain movements of Theater outcomes throughout the years. Usually, the theater shows had a peak season in May and June. Meanwhile, the number of failed shows had a correlated trend with the successful outcomes. 
+
+![image](https://user-images.githubusercontent.com/107721712/177054508-03daed34-4b62-4d7f-80d8-3ca6431bd031.png)
 ### Analysis of Outcomes Based on Goals
  I also analyze outcomes of Plays based on goals. I break down the goals with 12 ranges from “less than 1000” to “5000 and more”. Then I separate the outcome types the same as the first analysis, including Successful, Failed, and Cancelled. To understand the relation of the outcomes to total projects, I further calculate the percentage of each type of outcomes to the total projects. As a result, a line chart can indicate the trend of outcomes by the goals. This chart shows that successful and failed goals had opposite trend. Plays didn’t have canceled projects at all based on the goal range. 
 ![image](https://user-images.githubusercontent.com/107721712/177053470-569449f2-e1d4-4162-924c-b2e5ab27aad6.png)
