@@ -18,4 +18,5 @@ Plays didn’t have any cancellations based on the goals, so percentage successf
 ### Limitations and Recommendations
 Theater outcomes can not implicate the movements across years as each year may show different trends. I recommend filtering some years and comparing the outcomes in these years. 
 Regarding the plays outcomes based on goals. the sum of “Total Projects” was not equal to the total projects under “plays” sub-category. It was due to live outcomes missed in the analysis. I recommend creating another pivot table to filter plays, and outcomes as rows, then count the outcomes as values. The pivot table can help to check the sum of successful and failed outcomes is equal to the total projects in the “Outcomes Based on Goals”. 
+
 ![image](https://user-images.githubusercontent.com/107721712/177053763-1c6cc0e2-6c10-4ecf-83de-5d1354f58123.png)
